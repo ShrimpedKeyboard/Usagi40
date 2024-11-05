@@ -21,6 +21,7 @@ The case uses m3 spacers and screws and the plate uses m2
 ## PCB
 
 A hotswap pro micro RP2040 pcb 
+
  --- 
 
 ## Misc
