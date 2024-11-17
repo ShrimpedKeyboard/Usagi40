@@ -11,8 +11,8 @@ also has a strap
 
 ## Case
 
-Shrimptana uses a 9 layer stacked acrylic case with a bottom mount plate
-The case uses m3 spacers and screws and the plate uses m2
+usagi uses a 7 layer stacked acrylic case with a sandwhich mount case
+The case uses m3 spacers and screws
 
 ![alt text](https://github.com/ShrimpedKeyboard/Usagi40/blob/main/Gallery/Renders/Case%201.png?raw=true)
 
